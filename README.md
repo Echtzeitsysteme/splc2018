@@ -1,6 +1,6 @@
 # Optimal Reconfiguration of Dynamic Software Product Lines Based on Performance-Influence Models
 
-This repository contains supplementary material for the paper **Optimal Reconfiguration of Self-Adaptive Systems Based on Performance-Influence Models.**
+This repository contains supplementary material for the paper **Optimal Reconfiguration of Dynamic Software Product Lines Based on Performance-Influence Models.**
 The implementation of our approach for the *Adaptive Wireless Sensor Networks* case study is called *Coala - Context-Aware Topology Control Adaptation.*
 
 * *coala* contains binary that was used to produce the evaluation results. Please have a look at *coala_run.sample.bash* for further instructions.
