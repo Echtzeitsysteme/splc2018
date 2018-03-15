@@ -1,0 +1,7 @@
+metricName;scalingFactor
+mEJain;10
+mDropRate;10000
+mEndToEndDropRate;10000
+mEndToEndLatency;100
+mTopologyStorageSpanner;100
+mTopologyDensitySpanner;100

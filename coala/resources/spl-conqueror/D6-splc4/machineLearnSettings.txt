@@ -1,0 +1,4 @@
+withHierarchy False
+minImprovementPerRound 0.00000001
+learnTimeLimit 01:00:00
+numberOfRounds 100

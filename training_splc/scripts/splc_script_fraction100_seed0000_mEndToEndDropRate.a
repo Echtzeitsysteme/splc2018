@@ -1,0 +1,9 @@
+log TODO_ADJUST_TO_SUPERSCRIPT_PARENT_FOLDER/logs/splc_logfile_fraction100_seed0000_mEndToEndDropRate.log
+vm TODO_ADJUST_TO_SUPERSCRIPT_PARENT_FOLDER/vm.xml
+all TODO_ADJUST_TO_SUPERSCRIPT_PARENT_FOLDER/training_data_for_splc/wsntraces_for_splc.csv
+load-mlsettings TODO_ADJUST_TO_SUPERSCRIPT_PARENT_FOLDER/scripts/machineLearnSettings.txt
+printsettings
+nfp mEndToEndDropRate
+learnwithallmeasurements
+analyze-learning
+clean-sampling
