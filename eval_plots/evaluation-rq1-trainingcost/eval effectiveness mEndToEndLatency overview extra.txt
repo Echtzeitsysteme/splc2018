@@ -1,0 +1,9 @@
+* C1: System vs. baseline median value: 0.000
+* C2: System vs. baseline median value: 0.013
+* C3: System vs. baseline median value: 0.088
+* C4: System vs. baseline median value: 0.400
+C5: System vs. baseline median value: 1.324
+C6: System vs. baseline median value: 1.483
+* C7: System vs. baseline median value: 0.367
+* C8: System vs. baseline median value: 0.840
+* C9: System vs. baseline median value: 0.883
